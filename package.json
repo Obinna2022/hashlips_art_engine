@@ -1,4 +1,4 @@
-{
+{ 
   "name": "hashlips_art_engine",
   "version": "1.1.1",
   "description": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
@@ -29,3 +29,5 @@
     "sha1": "^1.1.1"
   }
 }
+"1;
+
